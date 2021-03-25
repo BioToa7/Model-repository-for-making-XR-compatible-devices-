@@ -1,7 +1,8 @@
 # Model-repository-for-making-XR-compatible-devices
-A repository created with the expressed purpose of sharing reference 3D models and casings of said electronics to help other people create their own XR devices
+A repository created with the expressed purpose of sharing reference 3D models and casings of said electronics to help other people create their own XR devices.
+Unless otherwise stated, every model that is meant to be printed has been designed and tested to print without supports at a layer height of 0.35mm.
 
-For the sake of time and and getting it out, these are the basic model files without much cleaning up for better performance, with the incomplete headset being the exception.
+For the sake of time and and getting it out, these are the basic model files without much cleaning, with the incomplete headset being the exception for better performance in Fusion 360.
 This description will change once more models are cleaned up and are added to the repository. This also includes documentation, BOM, and credit for where it is required. 
 
 Also, these first models are not all the files that I have to share. it will take time to organise the other files before I can upload them here.
